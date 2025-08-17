@@ -22,8 +22,9 @@ No external dependencies required (uses standard Python libraries).
 ## Usage
 Run the script: `python kashmir_agent_enhanced.py`  
 Interact via the command line. Example queries:  
-- "What are the top attractions?"  
-- "Is it safe to visit?"  
+- "best time" 
+- "safety"
+- "accomodation"
 - "Suggest an itinerary" (then specify preference).  
 Type 'exit' to quit.
 
