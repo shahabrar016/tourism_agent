@@ -31,5 +31,3 @@ Type 'exit' to quit.
 ## Author
 Shah Abrar Ul haq
 
-## License
-MIT License
