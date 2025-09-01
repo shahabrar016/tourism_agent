@@ -16,8 +16,7 @@ This project is a Python-based chatbot that assists tourists planning trips to K
 
 ## Installation
 No external dependencies required (uses standard Python libraries).  
-1. Clone the repository: `git clone https://github.com/[Your GitHub Username]/kashmir-tourism-ai-agent-enhanced.git`  
-2. Navigate to the directory: `cd kashmir-tourism-ai-agent-enhanced`  
+
 
 ## Usage
 Run the script: `python kashmir_agent_enhanced.py`  
